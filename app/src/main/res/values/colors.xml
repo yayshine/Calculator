@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <color name="btn">#536DFE</color>
+    <color name="btn_pressed">#3D5AFE</color>
+
+    <color name="btn_operator">#8C9EFF</color>
+    <color name="btn_operator_pressed">#536DFE</color>
+
+    <color name="btn_text">#fff</color>
+    <color name="result">#8C9EFF</color>
+</resources>
